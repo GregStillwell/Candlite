@@ -21,8 +21,11 @@
 * The Player folder is how the model looks and how the player move with animations 
 * Player asset is from https://ansimuz.itch.io/terryble-knight-assets
 * Bg is the background and got it from https://brullov.itch.io/oak-woods and https://ansimuz.itch.io/terryble-knight-assets
+* Music and sound effects are from https://www.epidemicsound.com/sound-effects/
 
+## Code Created
 
+* Made every code and features except for gravity and physics , Godot has built in gravity and physics 
 
 
 ## Description
