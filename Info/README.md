@@ -15,9 +15,10 @@
 
 ## Files Created
 
-
-*
-
+* tscn are scene that make the game run. like making a character, making a button 
+* Gd are scripts and you tell them what to do
+* Collectables are the demon eye flying in the game 
+* Player is t
 
 
 
