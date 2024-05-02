@@ -1,0 +1,27 @@
+# Name of Student: Greg Stillwell
+
+# Name of Project: Candlite
+
+# Project's Purpose or Goal: (What will it do for users?)
+
+A platform game where you jump on monsters head and kils them for gold while going though a story
+
+# List the absolute minimum features the project requires to meet this purpose or goal:
+
+- Jumping animations with collision detection
+- Gain gold off a kill 
+- Jumping on their head and making them disappear
+- a health system  
+
+# What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+
+Godot engine 
+
+# If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+- Updating the Background scenes. 
+- Adding a soundtrack. 
+- Adding a Shop for item you can buy
+- swimming animations for water
+- Adding a Boss
+- 
