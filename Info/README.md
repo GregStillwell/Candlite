@@ -15,10 +15,13 @@
 
 ## Files Created
 
-* tscn are scene that make the game run. like making a character, making a button 
+* tscn are scene that make the game run. like making a character or making a button 
 * Gd are scripts and you tell them what to do
-* Collectables are the demon eye flying in the game 
-* Player is t
+* The Collectables folder is the demon eye flying in the game and got it from https://ansimuz.itch.io/terryble-knight-assets 
+* The Player folder is how the model looks and how the player move with animations 
+* Player asset is from https://ansimuz.itch.io/terryble-knight-assets
+* Bg is the background and got it from https://brullov.itch.io/oak-woods and https://ansimuz.itch.io/terryble-knight-assets
+
 
 
 
